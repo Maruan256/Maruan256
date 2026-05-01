@@ -1,13 +1,37 @@
 <h1 align="center">Hi 👋, I'm Maruan</h1>
 <h3 align="center">A passionate fullstack developer from Berlin</h3>
 
-- 🔭 I’m currently working on [Plantyy](plantyy.com)
 
-- 🌱 I’m currently learning **JavaScript, React Redux**
+Fullstack Developer (Frontend Focus) — React · Next.js · Tailwind · Java · Node
 
-- 📫 How to reach me **maruanpaschen@gmail.com**
+Summary
+I build user-centered web applications and small-to-medium product features—from prototype to deployment. Focus areas: performance, accessibility, clean component architecture and pragmatic backend solutions.
 
-- ⚡ Fun fact **There is a kind of Jellyfish that is immortal**
+Highlights
+- Multiple fullstack and frontend projects using React, Next.js and Tailwind.
+- Experience with Java Spring Boot, Node.js, Docker and CI/CD (Jenkins, GitHub Actions).
+- Strong collaboration with Design/UX, rapid prototyping and iterative releases.
+- Security-aware: hands-on experience patching vulnerabilities and securing deployments.
+
+Tech Stack
+- Frontend: React, Next.js, Angular, Tailwind, ShadCN, HTML/CSS, Sass
+- Backend: Java Spring, Node.js (Express/Fastify), Ruby on Rails, PHP
+- DB & Infra: PostgreSQL, MariaDB, MySQL, MongoDB, Redis, Docker, AWS
+- Tests/CI: Vitest, Mocha, RSpec, Jenkins, GitHub Actions
+
+How I work
+- Small iterations, rapid prototypes, close alignment with design and PM.
+- Focus on accessibility (a11y), performance and maintainable code.
+- Tests + CI in highlight repos; clear README with setup and screenshots.
+
+Contributing / OSS
+Open to collaboration and small OSS PRs. If you have a project that needs help—get in touch.
+
+Contact
+- Website: https://bennyblitz.com  
+- GitHub: https://github.com/maruan256  
+- LinkedIn: https://www.linkedin.com/in/maruan-paschen/  
+- Email: maruanpaschen@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
