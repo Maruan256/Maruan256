@@ -1,23 +1,49 @@
 <h1 align="center">Hi 👋, I'm Maruan</h1>
-<h3 align="center">A passionate fullstack developer from Berlin</h3>
-
-
+# Maruan Paschen
 Fullstack Developer (Frontend Focus) — React · Next.js · Tailwind · Java · Node
 
 Summary
 I build user-centered web applications and small-to-medium product features—from prototype to deployment. Focus areas: performance, accessibility, clean component architecture and pragmatic backend solutions.
 
 Highlights
-- Multiple fullstack and frontend projects using React, Next.js and Tailwind.
-- Experience with Java Spring Boot, Node.js, Docker and CI/CD (Jenkins, GitHub Actions).
+- Fullstack and frontend projects using React, Next.js and Tailwind.
+- Experience with Java Spring Boot, Node.js, Docker and CI/CD.
 - Strong collaboration with Design/UX, rapid prototyping and iterative releases.
 - Security-aware: hands-on experience patching vulnerabilities and securing deployments.
 
 Tech Stack
-- Frontend: React, Next.js, Angular, Tailwind, ShadCN, HTML/CSS, Sass
-- Backend: Java Spring, Node.js (Express/Fastify), Ruby on Rails, PHP
+- Frontend: React, Next.js, TypeScript, Tailwind, ShadCN, HTML/CSS, Sass
+- Backend: Node.js (Express/Fastify), Ruby on Rails, Java Spring
 - DB & Infra: PostgreSQL, MariaDB, MySQL, MongoDB, Redis, Docker, AWS
 - Tests/CI: Vitest, Mocha, RSpec, Jenkins, GitHub Actions
+
+Featured Projects
+
+1) Benny Blitz — Personal portfolio
+- Live: https://bennyblitz.com  
+- Repo: https://github.com/maruan256/bennyblitz
+- Summary: My professional portfolio and personal site showcasing case studies, blog posts and project highlights. Built with TypeScript and modern frontend patterns to demonstrate component-driven UI, responsive layout and accessible interactions.
+- Role & Tech: Sole author — React/Next, Tailwind, TypeScript, deployed to static hosting.
+- Impact: Clear professional presentation used in outreach and hiring; quick-to-update project showcase.
+
+2) PortalPioneer — Project/portal site
+- Live: https://portalpioneer.com  
+- Summary: Public-facing project site/portal focused on showcasing product features and onboarding users. Designed for fast information access and clear calls-to-action, optimized for performance and mobile.
+- Role & Tech: Frontend lead — Next.js/React, responsive design, SEO optimizations.
+
+3) IsThisEastBerlin — Geolocation / novelty app
+- Live: https://isthiseastberlin.com  
+- Repo: https://github.com/maruan256/amifree 
+- Summary: Small interactive app that determines whether a given location falls inside former East/West Berlin boundaries. Focus on geospatial logic, performant client-side rendering and a playful UX.
+- Role & Tech: Author — TypeScript, client-side mapping logic, lightweight UI.
+- Impact: Demo of geodata handling, maps integration and concise UI/UX.
+
+4) Plantyy (archive) — Sophisticated Rails prototype
+- Live: (currently down)  
+- Repo: https://github.com/Maruan256/plantyy
+- Summary: Older but technically rich Ruby on Rails prototype with many commits and features (authentication, CRUD, background jobs). 
+- Role & Tech: Sole author — Ruby on Rails, PostgreSQL, background jobs, test suite.
+- Note: Archived/legacy but available in the repo for code and architecture examples.
 
 How I work
 - Small iterations, rapid prototypes, close alignment with design and PM.
@@ -32,7 +58,6 @@ Contact
 - GitHub: https://github.com/maruan256  
 - LinkedIn: https://www.linkedin.com/in/maruan-paschen/  
 - Email: maruanpaschen@gmail.com
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/@maruan-paschen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@maruan-paschen" height="30" width="40" /></a>
